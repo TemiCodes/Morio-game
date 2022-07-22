@@ -1,0 +1,37 @@
+.starting{
+    width: 100%;
+    text-align: left;
+}
+#instructions{
+    float: right;
+    border: 2px solid whitesmoke;
+    
+}
+#heading{
+    display: inline;
+}
+#start{
+    font-size: large;
+}
+#status{
+    font-size: large;
+}
+.modal-dialog{
+    width: 90%;
+}
+.I{
+    width: 45%;
+    display: inline-block;
+}
+#myCarousel{
+    background-color: black;
+}
+body{
+    
+}
+video{
+    background:url("game_console.png") ;
+    background-position:center ;
+    background-size: cover;
+    padding: 10px;
+}
